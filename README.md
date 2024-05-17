@@ -1,7 +1,8 @@
-# Setup-Docker em php-8.2 containers Docker.  
-  
 <img src="https://github.com/abraao69/ApiRestful-teste/blob/main/logo.png" alt="Logo" width="150" height="100">
-  
+
+
+# Setup-Docker em php-8.2 containers Docker.  
+    
 ## O servidor está configurado com muitos complementos sendo grande parte deles desnecessários.  
 Retire-os conforme quiser personalizar sua instalação no arquivo dockerfile.  
 Além disso, esse projeto é bom para personalizar para outros projetos Web também.  
