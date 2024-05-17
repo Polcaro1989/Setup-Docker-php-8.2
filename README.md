@@ -1,13 +1,6 @@
-# Sistema CMS Vogue pronto para uso em containers Docker.  
+# Setup-Docker em php-8.2 containers Docker.  
   
-![Takatsu's Projects](https://wesleytakatsu.github.io/Pagina-Apresentacao-Pessoal/media/img/Logo-Takatsu-Projetos.png)
-  
-
-## CRÉDITOS AO AUTOR DO SISTEMA CMS VOGUE:  
-https://www.sourcecodester.com/php/15517/company-website-cms-php.html  
-  
-### O sistema é antigo e já foi descontinuado. Aconselho usar apenas para fins pessoais.
-  
+<img src="https://github.com/abraao69/ApiRestful-teste/blob/main/logo.png" alt="Logo" width="150" height="100">
   
 ## O servidor está configurado com muitos complementos sendo grande parte deles desnecessários.  
 Retire-os conforme quiser personalizar sua instalação no arquivo dockerfile.  
