@@ -1,4 +1,4 @@
-<img src="https://github.com/abraao69/ApiRestful-teste/blob/main/logo.png" alt="Logo" width="180" height="100">
+<img src="https://github.com/abraao69/ApiRestful-teste/blob/main/logo.png" alt="Logo" width="200" height="100">
 
 
 # Setup-Docker em php-8.2 containers Docker.  
